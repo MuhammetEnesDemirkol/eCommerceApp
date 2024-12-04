@@ -22,7 +22,7 @@ This is a simple E-Commerce app built with React Native using Expo. The app allo
 - ![image](https://github.com/user-attachments/assets/e727eb5f-889f-4695-9898-9768164fc6a9)
 
 - Product Detail Image
-- ![image](https://github.com/user-attachments/assets/19cd5d75-d0b1-4c1b-8bb0-fc9b4ac62fe3)
+- ![image](https://github.com/user-attachments/assets/7ecaafad-ca19-4200-a167-12d26c5932ac)
 
 ## Dependencies
 - **React Native:** For building cross-platform mobile applications.
