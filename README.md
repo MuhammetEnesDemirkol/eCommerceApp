@@ -13,16 +13,16 @@ This is a simple E-Commerce app built with React Native using Expo. The app allo
 
 ## Screenshots
 - Product List Image
-![image](https://github.com/user-attachments/assets/6818e6a4-830d-443f-b36d-47ccbeb37864)
+- ![image](https://github.com/user-attachments/assets/6818e6a4-830d-443f-b36d-47ccbeb37864)
 
 - Favorites Image
-![image](https://github.com/user-attachments/assets/6cab7e4c-036e-459d-9a9a-dec53907d996)
+- ![image](https://github.com/user-attachments/assets/6cab7e4c-036e-459d-9a9a-dec53907d996)
 
 - Cart Image
-![image](https://github.com/user-attachments/assets/e727eb5f-889f-4695-9898-9768164fc6a9)
+- ![image](https://github.com/user-attachments/assets/e727eb5f-889f-4695-9898-9768164fc6a9)
 
 - Product Detail Image
-![image](https://github.com/user-attachments/assets/19cd5d75-d0b1-4c1b-8bb0-fc9b4ac62fe3)
+- ![image](https://github.com/user-attachments/assets/19cd5d75-d0b1-4c1b-8bb0-fc9b4ac62fe3)
 
 ## Dependencies
 - **React Native:** For building cross-platform mobile applications.
