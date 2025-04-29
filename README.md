@@ -1,70 +1,91 @@
-# eCommerceApp
+# 🛎️ eCommerceApp - React Native
 
-This is a simple E-Commerce app built with React Native using Expo. The app allows users to browse products, view product details, add products to the cart, and manage favorites.
+## 📖 Project Description
+This is a simple **E-Commerce mobile application** built with **React Native** using **Expo**. The app allows users to browse products, view product details, manage shopping cart items, and maintain a list of favorite products.
 
-## Features
-- **Product Listing**: Users can view products fetched from an external API.
-- **Product Detail**: View detailed information about each product.
-- **Add to Cart**: Add products to the shopping cart and update quantities.
-- **Favorites**: Add/remove products from favorites.
-- **Search and Filter**: Search for products by name and filter by brand or price.
-- **Infinite Scroll**: Load products in batches of 12 with infinite scroll.
-- **Save State**: Cart and favorites persist even when the app is closed.
+---
 
-## Screenshots
-- Product List Image
-- ![image](https://github.com/user-attachments/assets/6818e6a4-830d-443f-b36d-47ccbeb37864)
+## 🔄 Features
+- **Product Listing**: Browse products fetched from an external API.
+- **Product Detail View**: See detailed information about individual products.
+- **Add to Cart**: Add items to the shopping cart and update quantities.
+- **Favorites Management**: Mark products as favorites or remove them.
+- **Search & Filter**: Search products by name and filter by brand or price.
+- **Infinite Scroll**: Load products dynamically in batches of 12.
+- **State Persistence**: Cart and favorites are saved locally even after closing the app.
 
-- Favorites Image
-- ![image](https://github.com/user-attachments/assets/6cab7e4c-036e-459d-9a9a-dec53907d996)
+---
 
-- Cart Image
-- ![image](https://github.com/user-attachments/assets/e727eb5f-889f-4695-9898-9768164fc6a9)
+## 📷 Screenshots
+- Product List:
+  ![Product List](https://github.com/user-attachments/assets/6818e6a4-830d-443f-b36d-47ccbeb37864)
 
-- Product Detail Image
-- ![image](https://github.com/user-attachments/assets/7ecaafad-ca19-4200-a167-12d26c5932ac)
+- Favorites:
+  ![Favorites](https://github.com/user-attachments/assets/6cab7e4c-036e-459d-9a9a-dec53907d996)
 
-## Dependencies
-- **React Native:** For building cross-platform mobile applications.
-- **Expo:** For rapid development and testing.
-- **@react-navigation/native:** For screen navigation.
-- **@react-native-async-storage/async-storage:** For data persistence.
-- **Context API:** For managing state (Cart and Favorites).
+- Cart:
+  ![Cart](https://github.com/user-attachments/assets/e727eb5f-889f-4695-9898-9768164fc6a9)
 
-## Project Structure
-The project is structured as follows:
-- styles/: Contains styles for each screen.
-- tabs/: Contains screen components (e.g., ProductList, Cart).
-- context/: Contains context files for Cart and Favorites.
-- __tests__/: Contains test files for unit testing.
-- App.js: The main entry point of the application.
+- Product Detail:
+  ![Product Detail](https://github.com/user-attachments/assets/7ecaafad-ca19-4200-a167-12d26c5932ac)
 
-## How to Use
-- **Browse Products:** The home page displays a list of products.
-- **Search & Filter:** Use the search bar and filter button to find products easily.
-- **Add to Cart:** Click the "Add to Cart" button to add a product to your cart.
-- **Favorites:** Mark a product as a favorite by clicking on the star icon.
-- **Cart Management:** Go to the cart page to update product quantities or remove them.
+---
 
-## Technologies Used
+## 🛠️ Dependencies
 - React Native
 - Expo
-- AsyncStorage for persistent data storage.
-- React Navigation for navigation.
-- Context API for state management.
-- Jest for unit testing.
+- @react-navigation/native
+- @react-native-async-storage/async-storage
+- Context API for State Management
 
-## Unit Tests
-- **Testing-Library for React Native:** Used to test the functionality of the components and context.
-- Tests are located under the __tests__/ directory.
+---
 
-## Project Requirements Fulfilled
-- Responsive design applied.
-- Persistent storage for cart and favorites.
-- At least three screens implemented: Product List, Product Detail, and Cart.
-- API request to fetch product data.
-- Infinite scroll for product listing.
-- Unit tests added for stability.
+## 📂 Project Structure
+- `styles/`: Contains styles for each screen.
+- `tabs/`: Contains screen components (ProductList, Cart, etc.).
+- `context/`: Includes context files for managing Cart and Favorites states.
+- `__tests__/`: Includes unit test files.
+- `App.js`: Main entry point of the application.
 
-## Author ##
-**Muhammet Enes DEMİRKOL**
+---
+
+## 🚀 How to Use
+- **Browse Products**: Home page displays product list.
+- **Search & Filter**: Use search bar and filter products by brand or price.
+- **Add to Cart**: Tap "Add to Cart" on any product.
+- **Manage Favorites**: Tap the star icon to favorite or unfavorite products.
+- **Cart Management**: Update quantities or remove products from the cart page.
+
+---
+
+## 🎓 Technologies Used
+- React Native
+- Expo
+- AsyncStorage
+- React Navigation
+- Context API
+- Jest (for unit testing)
+
+---
+
+## 🔢 Unit Testing
+- Testing conducted using **Testing-Library for React Native**.
+- Tests verify component rendering, functionality, and context logic.
+- Test files are located under the `__tests__/` directory.
+
+---
+
+## 📊 Project Requirements Fulfilled
+- Responsive design implemented.
+- Persistent data storage for cart and favorites.
+- At least three screens (Product List, Product Detail, Cart).
+- API integration for fetching product data.
+- Infinite scrolling in product listing.
+- Unit tests to ensure stability.
+
+---
+
+## 👨‍💼 Author
+**Muhammet Enes DEMİRKOL** – Project Developer
+
+---
